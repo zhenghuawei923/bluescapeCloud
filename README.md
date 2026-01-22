@@ -55,3 +55,20 @@ tencent_downloader/
 - 默认下载路径
 - 是否记住下载路径
 - 最大并发下载数
+
+
+## License
+
+This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
+
+This software uses **PyQt6**, which is licensed under the GNU GPL v3
+by Riverbank Computing Limited.
+
+By using, modifying, or distributing this software, you agree to comply
+with the terms of the GPL v3.
+
+A copy of the license is included in the `LICENSE` file, or you may obtain
+one at:
+
+https://www.gnu.org/licenses/gpl-3.0.html
+
